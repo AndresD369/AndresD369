@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**AndresD369/AndresD369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills :computer:
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" />
+  </a>
+</p>
+  
+ 
