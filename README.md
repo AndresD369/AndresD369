@@ -1,23 +1,71 @@
-<h1 align="center">
-Hello, I'm Andres Duran!
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
+<h1 align="center">👋 Hello, I'm Andres Duran</h1>
 
-<hr>
+---
 
 <pre>
-💻 I am mainly a Software Developer.
-📚 I have a degree in software analysis and development.
-📝 I have a strong interest in Software Engineering and Front-End development.
-🛠️ I continue to lear continuously.
-🌱 Learning about Front-End development.
-🌟 Main language: JavaScript 😁
-🚩 Interested in Server Side Application development
-😃 I look forward to collaborate on impactful projects
+💻 I am mainly a Software Developer.  
+📚 I have a degree in Software Analysis and Development.  
+📝 I have a strong interest in Software Engineering and Front-End development.  
+🛠️ I continue to learn continuously.  
+🌱 Currently learning Front-End development.  
+🌟 Main language: JavaScript 😁  
+🚩 Interested in Server-Side Application development.  
+😃 I look forward to collaborating on impactful projects.  
 </pre>
-<hr>
+
+---
+
+## 🚀 Projects
+
+- **Personal Landing Page**  
+  Design of a personal presentation landing page using HTML and CSS.  
+
+- **Login Page**  
+  Web login design with authentication using Firebase.  
+
+- **Android Login Page**  
+  Login design for Android mobile applications in Java.  
+
+- **Item Registration Web Page**  
+  Web page to register and store items in a database.  
+
+- **Mobile Registration App**  
+  Mobile application in Java with Firebase database to register items.  
+
+---
+
+## 🎓 Education
+
+- **Software Developer Training**  
+  Software developer in training with experience in JavaScript, HTML, CSS, and monolithic architecture. Passionate about development and continuous learning.  
+  <br><strong>Stack:</strong> JS, React, Node.js, GitHub, Flutter, MongoDB, HeidySQL, Android Studio, NetBeans (Java).  
+
+- **Software Analysis and Requirements**  
+  - Gathering requirements and analyzing user stories.  
+  - Specification of functional and non-functional requirements.  
+  - Technical and economic proposals.  
+  - Functionality checklists.  
+
+- **Modeling and Design**  
+  - Using UML to represent entities and processes.  
+  - Flowcharts, deployment diagrams, and process maps.  
+  - Identification of software architectures.  
+
+- **Databases**  
+  - SQL and NoSQL.  
+  - Entity-relationship diagrams.  
+  - DDL/DML statements in SQL.  
+  - Tools: MongoDB, HeidySQL, Laragon, MySQL Workbench.  
+
+---
+
+## 📩 Contact
+<p align="center">
+  ✉️ <a href="mailto:duranvallejo369@gmail.com">duranvallejo369@gmail.com</a> | 📱 +57 314 638 6595
+</p>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 - Frontend
