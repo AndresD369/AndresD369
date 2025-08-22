@@ -15,6 +15,15 @@
 
 ---
 
+<h3 align="left">Languages and Tools:</h3>
+
+- Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,mysql,git,github,figma,vscode,linux" />
+  </a>
+</p>
+
 ## 🚀 Projects
 
 - **Personal Landing Page**  
@@ -61,32 +70,11 @@
 
 ## 📩 Contact
 <p align="center">
-  ✉️ <a href="mailto:duranvallejo369@gmail.com">duranvallejo369@gmail.com</a> | 📱 +57 314 638 6595
+  ✉️ <a href="mailto:duranvallejo369@gmail.com">duranvallejo369@gmail.com</a> | 📱 
 </p>
 
 
 
-<h3 align="left">Languages and Tools:</h3>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" />
-  </a>
-</p>
   
  
